@@ -3,12 +3,15 @@
 
 ### 💻 Full Stack Developer | Technical Consultant
 
-I'm a Computer Science graduate from the **Lebanese American University (LAU)** with a passion for building scalable applications, designing reliable backend systems, and solving complex engineering challenges.
+I'm a Computer Science graduate from the **Lebanese American University (LAU)**, passionate about building scalable applications, designing reliable backend systems, and solving complex engineering challenges.
 
-- 🔭 Working as a **Technical Consultant & Full Stack Developer**
+My work spans **full stack development, enterprise systems, cloud infrastructure, and AI-powered solutions**.
+
+- 💻 Working as a **Technical Consultant & Full Stack Developer**
 - 🚀 Building **enterprise applications, APIs, and distributed systems**
-- 🧠 Exploring **AI integration, automation, and system architecture**
-- ☁️ Interested in **Cloud Computing, DevOps, and Infrastructure**
+- 🤖 Exploring **AI, LLMs, RAG, AI agents, and intelligent automation**
+- ☁️ Working with **Docker, Red Hat OpenShift, and cloud infrastructure**
+- 🏗️ Interested in **system architecture, backend engineering, and DevOps**
 - 🎓 **BSc in Computer Science** — Lebanese American University
 
 ---
@@ -30,6 +33,15 @@ I'm a Computer Science graduate from the **Lebanese American University (LAU)** 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+**AI & LLM Engineering**
+
+![LLMs](https://img.shields.io/badge/Large_Language_Models-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-00875A?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0052CC?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6F42C1?style=flat-square)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-336791?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
 **Databases & ORM**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -37,13 +49,16 @@ I'm a Computer Science graduate from the **Lebanese American University (LAU)** 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 
-**DevOps & Infrastructure**
+**DevOps, Cloud & Infrastructure**
 
+![Red Hat OpenShift](https://img.shields.io/badge/Red_Hat_OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -61,11 +76,12 @@ I'm a Computer Science graduate from the **Lebanese American University (LAU)** 
 
 ### ⚡ What I Work On
 
-- **Full Stack Development** — Modern, responsive web applications
-- **Backend Engineering** — REST APIs, authentication, and business logic
-- **Enterprise Solutions** — Banking integrations and financial systems
-- **System Architecture** — Scalable services, databases, and background processing
-- **AI & Automation** — Data pipelines, LLM integrations, and intelligent workflows
+- **Full Stack Development** — Modern, responsive web applications using React, Next.js, and TypeScript
+- **Backend Engineering** — REST APIs, authentication, background processing, and distributed systems
+- **Enterprise Solutions** — Banking integrations, financial systems, and enterprise application development
+- **AI & LLM Engineering** — RAG pipelines, AI agents, document processing, and LLM-powered applications
+- **Cloud & Infrastructure** — Containerization, Red Hat OpenShift, Kubernetes, and deployment automation
+- **System Architecture** — Scalable services, database design, data pipelines, and system integrations
 
 ---
 

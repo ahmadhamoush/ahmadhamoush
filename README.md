@@ -1,9 +1,31 @@
-# Hi there, I'm Ahmad Hamoush 👋 
 
-- 💻 I’m a Technical Consultant and Full Stack Developer  
-- 🚀 Proficient in **React**, **Next.js**, **Node.js**, and modern web technologies  
-- 🎓 Previously studied Computer Science at the Lebanese American University
+# Hi there, I'm Ahmad Hamoush 👋
+
+### Full Stack Developer | Technical Consultant
+
+I'm a Computer Science graduate from the Lebanese American University (LAU), passionate about building scalable applications, designing reliable backend systems, and solving complex engineering challenges.
+
+- 💻 Currently working as a **Technical Consultant & Full Stack Developer**
+- 🚀 Experienced in **React, Next.js, Node.js, NestJS, and TypeScript**
+- 🏗️ Building **enterprise applications, REST APIs, and scalable backend architectures**
+- 🗄️ Working with **PostgreSQL, MongoDB, Prisma, and Sequelize**
+- ☁️ Interested in **Cloud Infrastructure, DevOps, AI Integration, and System Architecture**
+- 🎓 **BSc in Computer Science** — Lebanese American University (LAU)
 
 ---
 
-<img align="left" alt="Ahmad Hamoush's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahmadhamoush&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+### 🛠️ Tech Stack
+
+**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS
+
+**Backend:** Node.js · Express.js · NestJS · REST APIs
+
+**Databases:** PostgreSQL · MongoDB · Prisma · Sequelize
+
+**DevOps & Tools:** Docker · Git · GitHub Actions · Nginx · Google Cloud
+
+---
+
+### 🌱 GitHub Contributions
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/40c463/ahmadhamoush)
